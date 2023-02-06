@@ -6,7 +6,6 @@ import paginationView from './views/paginationView';
 import bookmarksView from './views/bookmarksView';
 import addRecipeView from './views/addRecipeView';
 
-console.log('hello!');
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 // import { search } from 'core-js/fn/symbol';
